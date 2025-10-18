@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Miriam L. Schiele"
 title_separator          : "-"
 name                     : &name "Miriam L. Schiele"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,12 +24,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  name             : "PhD student"
+  pronouns         : "she/her"  
+  bio              : "Currently, I work in the CLEFs project at the University of Tübingen, supervised by Jun.-Prof. Dr. James Griffiths"
+  location         : "Germany"
+  employer         : "University of Tübingen"
+  uri              : https://uni-tuebingen.de/en/255272
   email            : "none@example.org" 
 
   # Academic websites
